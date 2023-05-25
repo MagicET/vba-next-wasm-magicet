@@ -7,5 +7,4 @@ This is created because I want to change button color and custom something.
 Optimized port of VBA-M to WebAssembly. 
 
 # Try it in your browser
-https://44670.org/gba
-
+https://magicet.github.io/vba-next-wasm-magicet/
